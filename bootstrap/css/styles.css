@@ -1,0 +1,121 @@
+#title {
+    background-color: #ff4c68;
+    color:#fff;
+    padding: 3% 10% 3% 3%;
+}
+
+h1 {
+    font-size: 5rem;
+    line-height: 1.5;
+    font-weight: 900;
+
+}
+
+#title {
+    font-family: 'Montserrat, sans-serif';
+
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: 900;
+   
+}
+
+.navbar {
+    padding: 0, 4.2rem, 0;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.download-button {
+    font-size: 2rem;
+    margin: 5% 3% 5% 0;
+}
+
+.title-img {
+    width: 20%;
+    transform: rotate(45deg);
+    position:absolute;
+    right:30%;
+;
+}
+.icon-bottom:hover {
+    color:pink;
+}
+.icon-bottom {
+    
+    color:#ff4c68; 
+    font-size: 5rem;
+   
+   
+
+}
+#features {
+    background-color: white;
+    color: black;
+    padding:  10%;
+    position:relative;
+    z-index:1;
+    
+    text-align: center; 
+
+}
+#testimonials{
+    background-color: #ff4c68;
+
+    font-family: 'Montserrat, sans-serif';
+    text-align: center;
+    padding-top: 3%;
+    color:#fff;
+
+}
+.dog-pic{
+    margin: 3% 3% 3% 3%;
+    border-radius: 100%;
+      
+}
+#press {
+    background-color: #ff4c68;
+
+
+    
+    text-align: center; 
+
+    
+}
+@media (max-width: 1028px) {
+ 
+    #title{
+    text-align: center;
+    }
+     
+    .title-img {
+      position: relative;
+      transform: rotate(0);
+    }
+ }
+.press-pic{
+    margin: 3% 3% 3% 3%;
+
+      
+}
+#pricing {
+    text-align: center;
+    padding: 3rem;
+}
+#cta{
+    padding: 3%;
+    background-color: #ff4c68;
+    text-align: center; 
+     color: #FFF;
+}
+#footer{
+    padding: 3%;
+ 
+    text-align: center; 
+
+}

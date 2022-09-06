@@ -1,0 +1,13 @@
+body {
+    background-color: #F1F8F8;
+}
+hr {
+border: 1px ;
+border-style:dashed;
+background-color: blueviolet;
+
+width: 50% ;
+}
+h1{
+    color: #66bfbf
+}

@@ -1,0 +1,61 @@
+body{
+    background-color: #E4F9F5;
+    text-align: center;
+    font-family:  sans-serif;
+
+}
+.topCloud{
+ 
+   position: relative;
+   left:200px;
+   padding-top: 5%;
+}
+
+.botCloud{
+ 
+    position: relative;
+    right:200px;
+}
+.mountain{
+    margin-bottom: 5rem;
+ 
+
+}
+h1{
+    color:red;
+    font-size:3rem;
+    font-family:  cursive;
+    font-weight: lighter;
+
+    margin:50px auto o auto;
+}
+h2{
+    color:#eb81d2;
+    font-size:2rem;
+    font-family:  cursive;
+    font-weight: lighter;
+
+
+}
+.skill-row{
+    
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.pic1{
+    margin:100px auto 100px auto;
+    width:25%;
+  
+}
+.pic2{
+    margin: auto ;
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+
+

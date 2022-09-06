@@ -1,0 +1,15 @@
+.container{
+   
+    text-align: center;
+    
+
+
+}
+.dice{
+    display: inline-block;
+    margin: 3rem;
+   
+}
+.footer{
+    text-align: center;
+}
