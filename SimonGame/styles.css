@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+
+}
+
+table{
+
+    margin:auto;
+    table-layout: fixed ;
+    width: 100%;
+    padding:0%;
+}
+.button{
+
+    padding: 3rem;
+    font-size: 10rem;
+    margin: 0rem;
+    width: 100%;
+   
+  
+
+}
+.green{
+    background-color: #4CAF50;
+}
+.red{
+    background-color: #f44336;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.Transparency{
+    opacity:0.2;
+
+}
+.hint{
+    font-size: 10rem;
+
+}
+.wrongAnswer{
+    background-color: black;
+}

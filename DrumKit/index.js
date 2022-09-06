@@ -53,11 +53,3 @@ function playsounds(buttonInnerHTML){
     }
 
 }
-function changedisplay(buttonInnerHTML){
-    
-    var activebutton=document.querySelector("."+buttonInnerHTML);
-    activebutton.classList.add("pressed");
-    setTimeout(function(){
-        activebutton.classList.remove("pressed");
-    },100);
-}
