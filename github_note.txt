@@ -1,0 +1,30 @@
+ls -a (display all)
+ls
+
+code a.txt(open with vscode) 
+
+git init
+
+git status (display untrack file)
+git add a.txt
+git add . (add all)
+git rm --cached -r .( delete operator 'add .')
+
+git commit -m  "message you want"
+git log (display the commit)
+
+git diff(compare between touch and commit)
+git checkout a.txt(roll back to the commit version)
+
+git remote add origin https://github.com/songkunGuo/practiceGit.git
+git push -u origin master
+
+touch .gitignore( cannot add file in gitignore)
+
+git clone https://github.com/songkunGuo/practiceGit.git
+
+git branch name(build branch)
+git branch  (display all branch)
+git checkout branchname(go to that branch)
+
+git merge branchname( when you current in main branch)
