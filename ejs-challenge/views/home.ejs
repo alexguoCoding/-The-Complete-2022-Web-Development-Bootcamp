@@ -1,0 +1,28 @@
+<%- include('partials/header'); -%>
+    <h1>
+        Hello
+    </h1>
+    <p>
+        <%=startingContent%>
+    </p>
+    <% console.log(homeposts);%>
+
+    
+
+        <%  homeposts.forEach(function(p) {%>
+            <h1>
+                <%= p.Title%>
+            </h1>
+            <p>
+
+                <%=p.Post.slice(0, 2)+'...'%>
+                
+         
+             
+                <a href="/post/<%= p.Title%>">link</a>
+            </p>
+        
+       
+        <%   });%>
+
+    <%- include('partials/footer'); -%>

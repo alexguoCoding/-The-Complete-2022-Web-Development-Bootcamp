@@ -3,4 +3,5 @@ npm init
 npm install express body-parser nodemon ejs
 code .
 nodemon index.js
+rs
 
