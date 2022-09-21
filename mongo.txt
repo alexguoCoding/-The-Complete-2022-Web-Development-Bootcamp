@@ -1,0 +1,9 @@
+mongo
+show dbs
+use DBname
+show collections
+db.collectionname.find()
+DBname.dropDatabase()
+db.collectionname.find()
+
+heroku login

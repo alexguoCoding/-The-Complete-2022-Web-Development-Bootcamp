@@ -1,7 +1,8 @@
 touch index.html app.js 
 npm init
-npm install express body-parser nodemon ejs
+npm install express body-parser mongoose nodemon ejs
 code .
 nodemon index.js
 rs
+mongod
 
