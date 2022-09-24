@@ -1,4 +1,4 @@
-touch index.html app.js 
+touch index.html app.js .gitignore
 npm init
 npm install express body-parser mongoose nodemon ejs
 code .
