@@ -1,8 +1,10 @@
 touch index.html app.js .gitignore
-npm init
-npm install express body-parser mongoose nodemon ejs
+npm init -y
+npm install --save express body-parser mongoose nodemon ejs bcrypt jsonwebtoken cors  passport passport-google-oauth20  cookie-session
 code .
 nodemon index.js
 rs
 mongod
+curl localhost:8081
+cat package.json
 
